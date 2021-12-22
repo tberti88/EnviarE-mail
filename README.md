@@ -6,11 +6,6 @@
 
 > Status do Projeto: :heavy_check_mark: (concluido)
 
-### Tópicos 
-
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-
-
 ## Descrição do projeto 
 
 <p align="justify">
